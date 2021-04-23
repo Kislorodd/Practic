@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618001849 source:c:\users\asus\onedrive\Рабочий стол\Вычислительная практика\Лаба6№1\main.cpp
+	<iostream>
+	<windows.h>
+
